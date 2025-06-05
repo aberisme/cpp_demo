@@ -1,0 +1,5 @@
+# hide environment file
+.env
+
+# some other files
+hello.txt
